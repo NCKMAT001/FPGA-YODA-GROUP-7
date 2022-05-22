@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/matth/Desktop/FINAL YODA/YODA/YODA.srcs/sim_1/new/maxmin.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module maxmin
+ERROR: [VRFC 10-2989] 'enable' is not declared [C:/Users/matth/Desktop/FINAL YODA/YODA/YODA.srcs/sim_1/new/maxmin.v:30]
+ERROR: [VRFC 10-2865] module 'maxmin' ignored due to previous errors [C:/Users/matth/Desktop/FINAL YODA/YODA/YODA.srcs/sim_1/new/maxmin.v:23]
